@@ -10,4 +10,4 @@ I can get a better understanding of it.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
 
-[My image] (me.jpeg)
+![My image](me.jpeg)
