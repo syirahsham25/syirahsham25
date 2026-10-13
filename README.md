@@ -9,3 +9,5 @@ I can get a better understanding of it.
 - **Fun fact about me**: I really love cat and listening to R&B songs.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
+
+[My image] (me.jpeg)
